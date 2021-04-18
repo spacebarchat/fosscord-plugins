@@ -1,5 +1,3 @@
-## [Wiki](https://github.com/fosscord/fosscord-plugins/wiki/)
-
 <p align="center">
   <img width="100"  src="https://raw.githubusercontent.com/fosscord/fosscord/main/assets/logo_big_transparent.png" />
 </p>
